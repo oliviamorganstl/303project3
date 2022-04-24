@@ -1,0 +1,18 @@
+{
+  "name": "project3folder",
+  "version": "1.0.0",
+  "description": "This is my project 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "author": "Olivia Moore",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "knex": "^1.0.5",
+    "pg": "^8.7.3"
+  }
+}
